@@ -1,5 +1,4 @@
 # Aloha Forum
-![minSdk](https://img.shields.io/badge/minSdk-24-brightgreen)
 
 ## Overview
 Aloha is a forum application developed for Android as a side project. The primary aim of this app is to practice and explore various techniques, including Azure Cloud integration for backend services.
